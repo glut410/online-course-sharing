@@ -1,0 +1,15 @@
+{
+    "server":{
+        "host":"127.0.0.1",
+        "port":8001
+    },
+    "group_id": "",
+    "admin_id": "",
+    "replay": {
+    },
+    "reminder": {
+        "sb": false,
+        "jb": true,
+        "rb": true
+    }
+}
